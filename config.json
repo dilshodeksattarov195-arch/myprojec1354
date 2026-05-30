@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpecrypt",
+        "uuid": 11583470,
+        "checksum": "gkuh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
